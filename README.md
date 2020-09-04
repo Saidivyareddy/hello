@@ -1,2 +1,3 @@
-# hello
-this code will be developed by Divya reddy
+#include<stdio.h>
+int main()
+printf("hello")
